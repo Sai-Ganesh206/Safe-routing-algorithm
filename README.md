@@ -1,5 +1,5 @@
 # Safe-routing-algorithm
-The Smart Routing Application is a software project that provides users with a safe and secure route to travel from Point A to Point B taking into account the regional crime data and historical crime reports. The application will not necessarily prioritize the o test path but will provide the safest route available.
+The Safe Routing Application is a software project that provides users with a safe and secure route to travel from Point A to Point B taking into account the regional crime data and historical crime reports. The application will not necessarily prioritize the o test path but will provide the safest route available.
 Anyone who has ever been in an unfamiliar city knows the feeling of apprehension that comes with navigating on foot from point to point. You want to walk to your destination efficiently, but are also mindful of the desire to stay safe. Without the embedded knowledge of being a local, you don’t know which streets to avoid, particularly in the evenings.
 For certain populations such as women, this problem feels particularly acute.
 Existing solutions do little to address this major issue:
